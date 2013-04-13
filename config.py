@@ -1,5 +1,5 @@
 DATABASE = 'commanderdb'
 PORT = 27017
-DBSERVER = 'ajgb-AO722.local'
+DBSERVER = 'ajgb-ao722.local'
 DBUSER = 'commadmin'
 DBPASS = 'admin'
